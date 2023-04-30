@@ -1,0 +1,22 @@
+{
+  "name": "node_js_tools",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/norizone/node_js_tools.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/norizone/node_js_tools/issues"
+  },
+  "volta": {
+    "npm": "8.19.3",
+    "node": "18.13.0"
+  }
+}
